@@ -45,8 +45,21 @@ A machine needs data to learn and make predictions, so every data is raw and mes
 
 - `Communication & Deployment`
 
+## 6 Adoption-Driven Data Science for Transportation Planning: Methodology, Case Study, and Lessons Learned
+
+The study presents a collaborative data science methodology for solving transportation problems and demonstrates its effectiveness by applying it to estimate the transportation mode share in a city of 8 million people. The project successfully generated actionable insights and helped establish the first official use of mobile phone data for understanding transportation patterns in Chile.
+
+### Data science lifecycle it covers.
+
+- `Problem Definition`
+- `Data Collection`
+- `Data Cleaning`
+- `Exploratory Data Analysis`
+- `Communication`
+
 # References
 
 - [Data Science](https://www.ibm.com/think/topics/data-science)
 - [Machine Learning](https://www.ibm.com/think/topics/machine-learning)
 - [DS Lifecycle](https://public.dhe.ibm.com/software/data/sw-library/analytics/data-science-lifecycle/)
+- [Adoption-Driven Data Science for Transportation Planning: Methodology, Case Study, and Lessons Learned](https://www.mdpi.com/2071-1050/12/15/6001)
