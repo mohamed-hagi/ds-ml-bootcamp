@@ -1,6 +1,6 @@
 # Submission Stats
 
-> Auto-generated report. Last updated: 2026-06-29 12:08 UTC
+> Auto-generated report. Last updated: 2026-06-29 13:11 UTC
 >
 > A student counts as having submitted an assignment if a matching folder exists under their directory in `submissions/`.
 
@@ -82,7 +82,7 @@
 - **miskipea-gif** — sent assignment 1, assignment 2; did not send assignment 3, assignment 4
 - **MoAbdi358** — sent assignment 1, assignment 2, assignment 3; did not send assignment 4
 - **moelkenzi** — sent assignment 1; did not send assignment 2, assignment 3, assignment 4
-- **mohadaacad** — sent assignment 1, assignment 2, assignment 3; did not send assignment 4
+- **mohadaacad** — sent assignment 1, assignment 2, assignment 3, assignment 4; submitted all tracked assignments
 - **Mohamed-Ali-Shoble** — sent assignment 1, assignment 2, assignment 3; did not send assignment 4
 - **mohamed-hagi** — sent assignment 1, assignment 2; did not send assignment 3, assignment 4
 - **Mohamed-Jaah** — sent assignment 1, assignment 2, assignment 3; did not send assignment 4
@@ -230,6 +230,40 @@
 58. MoAbdi358
 59. moelkenzi
 60. mohadaacad
+=======
+28. Diini03
+29. Eng-Joseph2
+30. Eng-saacid
+31. Engmiski
+32. EngSadiiqi
+33. fahadAk11
+34. fatima-moha143
+35. foodcade00
+36. h-kahie
+37. Hayatmohamud
+38. Hibo-moha
+39. Hodman25
+40. iamkoshin
+41. Iqra027
+42. ismailmideeye12
+43. jama-ilyas
+44. Jelle-Hassan-Ali
+45. Kacabdev
+46. Kafeeya
+47. kassimmoha123
+48. khaalid-1
+49. kmmurad
+50. kurebere1
+51. MahdiDevSo
+52. maria-Kayse
+53. marshaale
+54. maryamocalimaxamed410-gif
+55. maryan-dev
+56. maxamadcarab63-hue
+57. maxamadibrahim2022-creator
+58. miskipea-gif
+59. MoAbdi358
+60. moelkenzi
 61. Mohamed-Ali-Shoble
 62. mohamed-hagi
 63. Mohamed-Jaah
